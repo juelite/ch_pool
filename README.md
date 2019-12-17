@@ -1,4 +1,4 @@
-## golang clickhouse 连接池
+## golang clickhouse connection pool
 
 ### click house connection package
 
